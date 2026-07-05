@@ -1,0 +1,17 @@
+# ===========================================
+# FILE: requirements.txt
+# ===========================================
+# Waleed XD - Facebook Login Tool
+# ===========================================
+
+# Core Web Framework
+Flask==3.0.0
+
+# Cryptography
+pycryptodome==3.19.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Additional utilities (optional)
+python-dotenv==1.0.0
